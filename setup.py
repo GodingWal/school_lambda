@@ -8,7 +8,7 @@ setup(
     version="1.0",
     author="Goding Wal",
     author_email="gwal325@gmail.com",
-    description="Data Science Helper Functions",
+    description="Data Science Helper Functions Tools",
     long_description=long_description,
     long_description_content_type="text/markdown", # required if using a md file for long desc
     #license="MIT",
